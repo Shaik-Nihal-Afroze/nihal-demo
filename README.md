@@ -1,4 +1,4 @@
 # nihal-demo
 This is my first github repo.
 <br/>
-Author - Nihal Afroze
+Author - Nihal Afroze shaik
